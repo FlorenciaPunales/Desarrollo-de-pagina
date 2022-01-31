@@ -7,7 +7,9 @@
 }
 
 /* 1em es 16px */
-
+body {
+    font-family: 'Krub', sans-serif;
+}
 h1 {
     text-align: center;
 }
@@ -64,4 +66,14 @@ li:first-child {
 .ax400 {
     width: 25%;
     object-fit: cover;
+}
+
+.imagen {
+    height: 400px;
+    width: 400px;
+}
+
+.titulo-producto {
+    text-align: center;
+
 }
